@@ -15,7 +15,7 @@
             <img alt="Claudio Gandra GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=claudiogandra&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="200" style="max-width: 100%;">
             <br>
             <br>
-            <iframe src="https://camo.githubusercontent.com/f9452a0244587fb94b99119a7b1cafe75ab78446f6d375195195d3645147136c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d636c617564696f67616e647261266c616e67735f636f756e743d3230266c61796f75743d636f6d70616374267468656d653d7261646963616c"></iframe>
+            <iframe width="466" src="https://camo.githubusercontent.com/f9452a0244587fb94b99119a7b1cafe75ab78446f6d375195195d3645147136c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d636c617564696f67616e647261266c616e67735f636f756e743d3230266c61796f75743d636f6d70616374267468656d653d7261646963616c"></iframe>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiogandra&langs_count=20&layout=compact&theme=radical" alt="Top Langs" style="width: 100%;">
           </td>
         </tr>
