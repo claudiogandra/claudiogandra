@@ -25,7 +25,17 @@
             </picture>
             <br>
             <br>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiogandra&langs_count=20&layout=compact&theme=radical" alt="Top Langs" style="width: 100%;">
+            <picture>
+              <source
+                srcset="[https://github-readme-stats.vercel.app/api?username=claudiogandra&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiogandra&langs_count=20&layout=compact&theme=radical)"
+                media="(prefers-color-scheme: dark)"
+              />
+              <source
+                srcset="[https://github-readme-stats.vercel.app/api?username=claudiogandra&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiogandra&langs_count=20&layout=compact&theme=radical)"
+                media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+              />
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiogandra&langs_count=20&layout=compact&theme=radical" alt="Top Langs" style="width: 100%;">
+            </picture>
           </td>
         </tr>
     </table>
