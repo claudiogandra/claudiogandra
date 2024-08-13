@@ -21,7 +21,7 @@
                 srcset="https://github-readme-stats.vercel.app/api?username=claudiogandra&show_icons=true"
                 media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
               />
-              <img src="https://github-readme-stats.vercel.app/api?username=claudiogandra&show_icons=true" />
+              <img src="https://github-readme-stats.vercel.app/api?username=claudiogandra&show_icons=true" width="600" />
             </picture>
             <br>
             <br>
@@ -34,7 +34,7 @@
                 srcset="[https://github-readme-stats.vercel.app/api?username=claudiogandra&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiogandra&langs_count=20&layout=compact&theme=radical)"
                 media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
               />
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiogandra&langs_count=20&layout=compact&theme=radical" alt="Top Langs" style="width: 100%;">
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiogandra&langs_count=20&layout=compact&theme=radical" alt="Top Langs" width="400">
             </picture>
           </td>
         </tr>
