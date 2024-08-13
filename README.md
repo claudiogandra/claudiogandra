@@ -12,12 +12,12 @@
       <tbody>
         <tr>
           <td align="center">
-            <a href="https://github-readme-stats.vercel.app/api?username=henriquegandra&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical">
-            <img alt="Henrique Gandra GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=henriquegandra&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="200" style="max-width: 100%;">
+            <a href="https://github-readme-stats.vercel.app/api?username=claudiogandra&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical">
+            <img alt="Claudio Gandra GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=claudiogandra&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="200" style="max-width: 100%;">
             </a>
             <br>
             <br>
-            <a href="https://github.com/henriquegandra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegandra&langs_count=20&layout=compact&theme=radical" alt="Top Langs" style="width: 100%;"></a>
+            <a href="https://github.com/claudiogandra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiogandra&langs_count=20&layout=compact&theme=radical" alt="Top Langs" style="width: 100%;"></a>
           </td>
         </tr>
     </table>
